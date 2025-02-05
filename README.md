@@ -3,14 +3,10 @@
 <br>
 
 <h2 align="center">
-    <a href="https://honzaap.github.io/Pathfinding">
+    <a href="[https://honzaap.github.io/Pathfinding](https://map-pathfinding-visualizer.netlify.app/)">
         <b>Try it out!</b>
     </a>
 </h2>
-
-
-
-https://github.com/honzaap/Pathfinding/assets/58147774/1a5e5c50-5e13-4738-b67a-2015631906ee
 
 
 
