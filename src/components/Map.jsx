@@ -337,11 +337,11 @@ function Map() {
                         getFillColor={d => d.color}
                         getLineColor={d => d.lineColor}
                     />
-                    <MapGL 
+{/*                     <MapGL 
                         reuseMaps mapLib={maplibregl} 
                         mapStyle={MAP_STYLE} 
                         doubleClickZoom={false}
-                    />
+                    /> */}
                 </DeckGL>
             </div>
             <Interface 
