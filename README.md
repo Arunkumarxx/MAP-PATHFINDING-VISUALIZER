@@ -3,7 +3,7 @@
 <br>
 
 <h2 align="center">
-    <a href="[https://honzaap.github.io/Pathfinding](https://map-pathfinding-visualizer.netlify.app/)">
+    <a href="([https://honzaap.github.io/Pathfinding](https://map-pathfinding-visualizer.netlify.app/)">
         <b>Try it out!</b>
     </a>
 </h2>
