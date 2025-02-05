@@ -3,7 +3,7 @@
 <br>
 
 <h2 align="center">
-    <a href="https://arunkumarx-portfolio.netlify.app/">
+    <a href="https://map-pathfinding-visualizer.netlify.app/">
         <b>Try it out!</b>
     </a>
 </h2>
