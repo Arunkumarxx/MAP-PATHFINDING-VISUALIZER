@@ -341,7 +341,7 @@ function Map() {
                         reuseMaps mapLib={maplibregl} 
                         mapStyle={MAP_STYLE} 
                         doubleClickZoom={false}
-
+                    />
                 </DeckGL>
             </div>
             <Interface 
